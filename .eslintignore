@@ -1,0 +1,5 @@
+src/app/jobs/components/JobCard.tsx
+src/app/jobs/new/page.tsx
+src/app/login/page.tsx
+src/app/register/page.tsx
+src/app/page.tsx
